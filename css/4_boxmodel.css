@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    /* box-sizing: border-box; */
+}
+
+
+h2 {
+
+    /* padding: 20px; */
+    margin: 20px;
+
+    background-color: aqua;
+    
+    border-style: solid;
+    border-color: black;
+
+    border-width: 5px;
+    border-radius: 5px;
+
+    /* display: inline; */
+}
+
+p {
+    padding: 60px;
+    background-color: aqua;
+    width: 50%;
+}
+
+div {
+    margin: 5px;
+    background-color: black;
+    height: 10px;
+
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+span {
+
+    background-color: aqua;
+
+    color: red;
+    text-decoration: underline;
+
+    /* display: block; */
+}

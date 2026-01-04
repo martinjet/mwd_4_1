@@ -1,0 +1,30 @@
+div {
+    color: white;
+    text-align: center;
+
+    margin: 20px auto;
+
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    /* transition: 0.5s; */
+}
+
+div:hover {
+
+    background-color: blueviolet;
+    border-radius: 20px;
+    transition: 0.5s;
+
+    /* transform: translateX(50px); */
+    /* transform: skewX(10deg); */
+
+    /* height: 150px; */
+    /* width: 150px; */
+    /* cursor: pointer; */
+    /* cursor: grab; */
+
+    /* nelze animovat */
+    /* text-transform: uppercase; */
+}
+
